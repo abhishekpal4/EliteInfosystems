@@ -150,18 +150,27 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#header-carousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1">
-                    <img style="display:flex; justify-content:center; align-items:center;" class="img-fluid" src="assets/img/qe.png" alt="Image">
+                    <img style="display:flex; justify-content:center; align-items:center;" class="img-fluid" src="assets/img/eli.png" alt="Image">
                 </button>
                 <button type="button" data-bs-target="#header-carousel" data-bs-slide-to="1" aria-label="Slide 2">
-                    <img class="img-fluid" src="assets/img/el.png" alt="Image">
+                    <img class="img-fluid" src="assets/img/qe.png" alt="Image">
                 </button>
                 <button type="button" data-bs-target="#header-carousel" data-bs-slide-to="2" aria-label="Slide 3">
-                    <img class="img-fluid" src="assets/img/eli.png" alt="Image">
+                    <img class="img-fluid" src="assets/img/el.png" alt="Image">
                 </button>
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100 d-flex justify-content-center" src="assets/img/qe.png"  alt="Image">
+                    <img class="w-100 d-flex justify-content-center" src="assets/img/eli.png"  alt="Image">
+                    <div class="carousel-caption">
+                        <div class="p-3" style="max-width: 900px;">
+                            <h4 class="text-white text-uppercase mb-4 animated zoomIn"></h4>
+                            <h1 class="display-1 text-white mb-0 animated zoomIn"></h1>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <img class="w-100" src="assets/img/qe.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4 animated zoomIn"></h4>
@@ -171,15 +180,6 @@
                 </div>
                 <div class="carousel-item">
                     <img class="w-100" src="assets/img/el.png" alt="Image">
-                    <div class="carousel-caption">
-                        <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-4 animated zoomIn"></h4>
-                            <h1 class="display-1 text-white mb-0 animated zoomIn"></h1>
-                        </div>
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <img class="w-100" src="assets/img/eli.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-4 animated zoomIn"></h4>
